@@ -101,7 +101,7 @@ Resources on Blocks:
 - [RubyMonk on Blocks](http://rubymonk.com/learning/books/1-ruby-primer/chapters/34-lambdas-and-blocks-in-ruby/lessons/78-blocks-in-ruby)
 
 ## `it`
-                        
+
 Now that we've created a structure to group our tests together using the `describe` method, we can move on to actually describing the desired functionality. Every specification in RSpec begins with the `it` method.
 
 The `it` method, like the `describe` method, accepts an arbitrary string as an argument, namely, some text that says what we're currently interested in testing. Like all things in code, every `it` should be specifying one, only one, and exactly one, desired outcome or behavior.
